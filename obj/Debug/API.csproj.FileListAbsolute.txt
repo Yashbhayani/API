@@ -1,0 +1,11 @@
+D:\Projects\Yash Console\C#\API\bin\Debug\API.exe.config
+D:\Projects\Yash Console\C#\API\bin\Debug\API.exe
+D:\Projects\Yash Console\C#\API\bin\Debug\API.pdb
+D:\Projects\Yash Console\C#\API\obj\Debug\API.csproj.AssemblyReference.cache
+D:\Projects\Yash Console\C#\API\obj\Debug\API.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Yash Console\C#\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+D:\Projects\Yash Console\C#\API\obj\Debug\API.exe
+D:\Projects\Yash Console\C#\API\obj\Debug\API.pdb
+D:\Projects\Yash Console\C#\API\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Yash Console\C#\API\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Yash Console\C#\API\obj\Debug\API.csproj.CopyComplete
