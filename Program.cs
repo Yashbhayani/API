@@ -14,6 +14,8 @@ namespace API
 {
     internal class Program
     {
+        
+        // Methode:-1
         /*
         static void Main(string[] args)
         {
@@ -38,6 +40,7 @@ namespace API
         }
         */
 
+        //methode - 2
         static void Main(string[] args)
         {
             try
@@ -48,10 +51,6 @@ namespace API
                 var result = client.GetAsync(endpoint).Result;
                 string json = result.Content.ReadAsStringAsync().Result;
                 List<ResponseModel> tmp = JsonConvert.DeserializeObject<List<ResponseModel>>(json);
-                for(int i = 0; i<tmp.Count; i++)
-                {
-                    Console.WriteLine(tmp[i].id);
-                }
                 Console.WriteLine(tmp.Count);
             }
             }
